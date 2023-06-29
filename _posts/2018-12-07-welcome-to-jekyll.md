@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Welcome to Jekyll!???
 subtitle: A awesome static site generator.
-author: Jeffrey
+author: Jinha
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
