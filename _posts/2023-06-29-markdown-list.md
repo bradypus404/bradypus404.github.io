@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!???
-subtitle: A awesome static site generator.
+title: Markdown 설명서
+subtitle: 기본적인 Markdown과 약간의 다름이 존재
 author: Jinha
-categories: jekyll
+categories: Blog
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: [Guide, First]
 sidebar: []
 ---
 ### ↑ Banner
@@ -26,19 +26,15 @@ sidebar: []
 이 페이지는 `markdown`의 형식의 예제들을 적어놓은 설명서이다.
 
 ## 1. 글씨 크기 및 제목
-  큰 제목
-  =============
-
-  작은 제목
-  -------------
-
-# 제목 1
-# This is a H1
+-------------------------------------------------------------------------------
 ## 제목 2
 ### 제목 3
 #### 제목 4
 ##### 제목 5
 ###### 제목 6
+
+## 2. 목록
+
 
 ## 2. 코드 삽입
 
