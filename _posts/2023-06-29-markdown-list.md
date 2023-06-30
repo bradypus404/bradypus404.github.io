@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Markdown 설명서
-subtitle: 기본적인 Markdown과 약간의 다름이 존재
+title: Markdown Guide
+subtitle: test
 author: Jinha
 categories: Blog
 banner:
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: Guide First
+tags: theme
 sidebar: []
 ---
 ### ↑ Banner
