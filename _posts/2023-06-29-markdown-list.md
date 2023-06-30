@@ -86,5 +86,7 @@ print(p1.age)
 ## Image 삽입
 ScreenShot <br>
 --------
-![linux](../assets/images/post/linux_windows_logos-600x400.jpg)
+![linux](../assets/images/post/linux.jpg)
+
+
 <img src="../assets/images/post/linux_windows_logos-600x400.jpg", height="100x", width="100px">
