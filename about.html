@@ -4,13 +4,17 @@ title: About
 ---
 
 <style>
+    .all-layout{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
     .profile-img{
         width: 200px;
         height: 200px;
         border-radius: 70%;
         overflow: hidden;
-        text-align: center;
-        align-items: center;
     }
     .profile-img-img{
         width: 100%;
@@ -20,14 +24,15 @@ title: About
 </style>
 
 <h2>About</h2>
-<div class="profile-img">
-    <img src="/assets/images/Profile/foliv0ra.png" alt="profile-img" class="profile-img-img">
+
+<div class="all-layout">
+    <div class="profile-img">
+        <img src="/assets/images/Profile/foliv0ra.png" alt="profile-img" class="profile-img-img">
+    </div>
     <b>최두섭</b>
     <p>
     안녕하세요
-    </p>
-    
-    <p>
+
     네트워크 보안
     </p>
 </div>
