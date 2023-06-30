@@ -39,7 +39,7 @@ sidebar: []
 #####  5
 ######  6
 
-## section 1
+## 2. 코드 삽입
 
 코드를 적을때는 아래와 같이 작성하면 된다.
 
@@ -51,7 +51,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-## section 2
+## 수식 삽입
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
