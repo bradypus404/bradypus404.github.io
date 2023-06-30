@@ -21,14 +21,22 @@ sidebar: []
 ---
 ### ↑ Banner
 
+### Markdown 설명
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+이 페이지는 `markdown`의 형식의 예제들을 적어놓은 설명서이다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+제목 리스트
+'''
+제목 입니다.
+'''
+
+'###' ###  큰 제목
+'##' ## 중간 제목
+'#' # 작은 제목
 
 ## section 1
 
-Jekyll also offers powerful support for code snippets:
+코드를 적을때는 아래와 같이 작성하면 된다.
 
 {% highlight ruby %}
 def print_hi(name)
@@ -74,3 +82,8 @@ p1 = Person("John", 36)
 print(p1.name)
 print(p1.age)
 ```
+
+## Image 삽입
+ScreenShot <br>
+--------
+![ex_screenshot](../assets/images/post/linux_windows_logos-600x400.jpg)
