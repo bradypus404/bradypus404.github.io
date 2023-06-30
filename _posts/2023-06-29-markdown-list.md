@@ -21,18 +21,23 @@ sidebar: []
 ---
 ### ↑ Banner
 
-### Markdown 설명
+# Markdown 설명
 
 이 페이지는 `markdown`의 형식의 예제들을 적어놓은 설명서이다.
 
-제목 리스트
-'''
-제목 입니다.
-'''
+## 1. 글씨 크기 및 제목
+큰 제목
+-----------
 
-'###' ###  큰 제목
-'##' ## 중간 제목
-'#' # 작은 제목
+작은 제목
+-----------
+
+#  1
+##  2
+###  3
+####  4
+#####  5
+######  6
 
 ## section 1
 
@@ -87,4 +92,3 @@ print(p1.age)
 ScreenShot <br>
 --------
 ![linux](../assets/images/post/linux_windows_logos-600x400.jpg)
-<img src="../assets/images/post/linux_windows_logos-600x400.jpg", height="100x", width="100px">
