@@ -93,6 +93,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 $a \* b = c ^ b$
 
+$a_1, a^2, a_1^2$
+$y_i=x_i^3+x_{i-1}^2+x_{i-2}$
+
 $2^{\frac{n-1}{3}}$
 
 $$\int_a^b f(x)\,dx.$$
