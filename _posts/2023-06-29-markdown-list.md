@@ -72,7 +72,8 @@ sidebar: []
 >>> 인용구
 
 ## Image 삽입
-ScreenShot
+ScreenShot <br>
+
 ---------------------
 ![linux](/assets/images/post/linux.jpg)
 
