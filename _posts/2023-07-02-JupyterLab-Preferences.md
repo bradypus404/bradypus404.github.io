@@ -4,7 +4,7 @@ title: JupyterLab 환경설정
 subtitle: 혼자 공부하는 머신러닝+딥러닝 [1-1, 1-2]
 date: 2023-07-01 18:30:00 +0900
 author: Hyeonsu
-categories: Machine Learning
+categories: [Machine Learning]
 tags: [Machine Learning]
 sidebar: []
 ---
