@@ -40,4 +40,3 @@ sidebar: []
 #### 주피터 랩 설치 
 - `아나콘다`를 열고 `주피터랩`을 들어간다.
 ![JupyterLab](/assets/images/post/2023-07-02-%5B1-11-2%5D/01.png)
-    
