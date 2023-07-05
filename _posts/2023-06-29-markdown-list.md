@@ -2,6 +2,7 @@
 layout: post
 title: Markdown Guide
 subtitle: test
+date: 2023-06-29 00:00:00 +0900
 author: Jinha
 categories: Blog
 banner:
@@ -16,7 +17,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: theme
+tags: themea
 sidebar: []
 ---
 ### ↑ Banner
